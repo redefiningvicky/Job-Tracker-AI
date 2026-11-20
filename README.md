@@ -349,15 +349,15 @@ npm run dev
   </tr>
 </table>
 
-<h3>Version 2 and 3 Dashboard</h3>
+<h3>Version 2 Dashboard</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_v3_dashboard.png">
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_dashboard.png">
         <img
-          src="Images/v2_v3_dashboard.png"
-          alt="v2 v3 Dashboard"
+          src="Images/v2_dashboard.png"
+          alt="v2 Dashboard"
           width="100%"
         />
       </a>
@@ -365,15 +365,15 @@ npm run dev
   </tr>
 </table>
 
-<h3>Version 2 and 3 Board</h3>
+<h3>Version 2 Board</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_v3_board.png">
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_board.png">
         <img
-          src="Images/v2_v3_board.png"
-          alt="v2 v3 Board"
+          src="Images/v2_board.png"
+          alt="v2 Board"
           width="100%"
         />
       </a>
@@ -381,15 +381,15 @@ npm run dev
   </tr>
 </table>
 
-<h3>Version 2 and 3 List</h3>
+<h3>Version 2 List</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_v3_list.png">
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_list.png">
         <img
-          src="Images/v2_v3_list.png"
-          alt="v2 v3 List"
+          src="Images/v2_list.png"
+          alt="v2 List"
           width="100%"
         />
       </a>
@@ -429,6 +429,70 @@ npm run dev
   </tr>
 </table>
 
+<h3>Version 3 Dashboard</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v3_dashboard.png">
+        <img
+          src="Images/v3_dashboard.png"
+          alt="v3 Dashboard"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Version 3 Board</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v3_board.png">
+        <img
+          src="Images/v3_board.png"
+          alt="v3 Board"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Version 3 List</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v3_list.png">
+        <img
+          src="Images/v3_list.png"
+          alt="v3 List"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Version 3 Share</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v3_share.png">
+        <img
+          src="Images/v3_share.png"
+          alt="v3 Share"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h3>Version 3 Backup</h3>
 
 <table>
@@ -438,22 +502,6 @@ npm run dev
         <img
           src="Images/v3_backup.png"
           alt="v3 Backup"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3>Version 3 Export</h3>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v3_export.png">
-        <img
-          src="Images/v3_export.png"
-          alt="v3 Export"
           width="100%"
         />
       </a>
