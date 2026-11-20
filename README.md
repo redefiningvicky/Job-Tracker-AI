@@ -230,12 +230,10 @@ Think big picture — surprise me with thoughtful touches that make a job search
 
 </details>
 
-<h2 id="comparison">🔀 Comparison</h2>
-
 <h3>Switch Between Branches</h3>
 
 <details>
-  <summary><strong>View Prompt</strong></summary>
+  <summary><strong>View Switch Prompt</strong></summary>
 
 ```text
 # View all branches
