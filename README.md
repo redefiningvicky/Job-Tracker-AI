@@ -58,9 +58,9 @@ This project demonstrates iterative software architecture and Git feature-branch
 <h2 id="prompt purpose">💡 Prompt Purpose</h2>
 
 <ul>
-  <li>Version 1: Simple CSV Export</li>
-  <li>Version 2: Advanced Export with Options</li>
-  <li>Version 3: Cloud Integration</li>
+  <li>main (Version 1): Simple CSV Export</li>
+  <li>feature-data-export-v2 (Version 2): Advanced Export with Options</li>
+  <li>feature-data-export-v3 (Version 3): Cloud Integration</li>
 </ul>
 
 <hr>
