@@ -50,7 +50,7 @@
 </p>
 
 <p>
-  <strong>Model:</strong> Gemini 4 Hydrogen (2026), Claude Opus 5.5 (2026)
+  <strong>Models:</strong> Gemini 4 Hydrogen (2026), Claude Opus 5.5 (2026)
 </p>
 
 <p><strong>Format:</strong> Browser App</p>
