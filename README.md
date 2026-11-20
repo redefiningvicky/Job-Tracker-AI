@@ -55,9 +55,25 @@
 
 <p><strong>Format:</strong> Browser App</p>
 
+<p><strong>Operating System:</strong> Windows</p>
+
 <hr>
 
 <h2 id="prompts">⌨️ Prompts</h2>
+
+<h3>Terminal</h3>
+
+<details>
+  <summary><strong>View Prompt</strong></summary>
+
+```text
+mkdir job-tracker-ai
+cd job-tracker-ai
+
+claude
+```
+
+</details>
 
 <h3>main (Version 1)</h3>
 
