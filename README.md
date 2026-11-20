@@ -269,21 +269,62 @@ npm run dev
 
 <h2 id="images">🖼️ Images</h2>
 
-<h3>main (Version 1)
+<h3>View All Branches</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Alan_Turing/Alan_Turing_S1.png">
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/view_all_branches.png">
         <img
-          src="Alan_Turing/Alan_Turing_S1.png"
-          alt="Alan Turing presentation slide 1"
+          src="Images/view_all_branches.png"
+          alt="View All Branches"
           width="100%"
         />
       </a>
     </td>
   </tr>
 </table>
+
+<h3>Dashboard</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v1_dashboard.png">
+        <img
+          src="Images/v1_dashboard.png"
+          alt="v1 Dashboard"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Dashboard</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v1_board.png">
+        <img
+          src="Images/v1_board.png"
+          alt="Board"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 <hr>
 
