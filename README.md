@@ -269,7 +269,7 @@ npm run dev
 
 <h2 id="images">🖼️ Images</h2>
 
-<h4>View All Branches</h4>
+<h3>View All Branches</h3>
 
 <table>
   <tr>
@@ -435,7 +435,7 @@ npm run dev
 
 <h3>feature-data-export-v3 (Version 3)</h3>
 
-<4>Version 3 Dashboard</h4>
+<h4>Version 3 Dashboard</h4>
 
 <table>
   <tr>
