@@ -285,7 +285,7 @@ npm run dev
   </tr>
 </table>
 
-<h3>Dashboard</h3>
+<h3>Version 1 Dashboard</h3>
 
 <table>
   <tr>
@@ -301,7 +301,7 @@ npm run dev
   </tr>
 </table>
 
-<h3>Dashboard</h3>
+<h3>Version 1 Board</h3>
 
 <table>
   <tr>
@@ -309,7 +309,7 @@ npm run dev
       <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v1_board.png">
         <img
           src="Images/v1_board.png"
-          alt="Board"
+          alt="v1 Board"
           width="100%"
         />
       </a>
@@ -317,14 +317,149 @@ npm run dev
   </tr>
 </table>
 
+<h3>Version 1 List</h3>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v1_list.png">
+        <img
+          src="Images/v1_list.png"
+          alt="v1 List"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<h3>Version 1 Backup</h3>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v1_backup.png">
+        <img
+          src="Images/v1_backup.png"
+          alt="v1 Backup"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<h3>Version 2 and 3 Dashboard</h3>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_v3_dashboard.png">
+        <img
+          src="Images/v2_v3_dashboard.png"
+          alt="v2 v3 Dashboard"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<h3>Version 2 and 3 Board</h3>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_v3_board.png">
+        <img
+          src="Images/v2_v3_board.png"
+          alt="v2 v3 Board"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<h3>Version 2 and 3 List</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_v3_list.png">
+        <img
+          src="Images/v2_v3_list.png"
+          alt="v2 v3 List"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Version 2 Backup</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_backup.png">
+        <img
+          src="Images/v2_backup.png"
+          alt="v2 Backup"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Version 2 Export</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v2_export.png">
+        <img
+          src="Images/v2_export.png"
+          alt="v2 Export"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Version 3 Backup</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v3_backup.png">
+        <img
+          src="Images/v3_backup.png"
+          alt="v3 Backup"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>Version 3 Export</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v3_export.png">
+        <img
+          src="Images/v3_export.png"
+          alt="v3 Export"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
