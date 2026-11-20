@@ -4,7 +4,7 @@
   <h1>💼 Job Tracker AI</h1>
 
   <p>
-    A Next.js job application tracker built across three Git branches to explore different approaches to data export and cloud sharing.
+    A Next.js job application tracker using three Git branches to explore different approaches to data export and cloud sharing.
   </p>
 
 </div>
