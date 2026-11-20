@@ -1,9 +1,7 @@
-# Job-Tracker-AI
-
 
 <div align="center">
 
-  <h1>👥 Thinking &amp; Feeling: Turing Meets Angelou</h1>
+  <h1>💼 Job Tracker AI</h1>
 
   <p>
     
