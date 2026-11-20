@@ -301,7 +301,7 @@ npm run dev
   </tr>
 </table>
 
-<h3>Dashboard</h3>
+<h3>Board</h3>
 
 <table>
   <tr>
@@ -309,7 +309,7 @@ npm run dev
       <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v1_board.png">
         <img
           src="Images/v1_board.png"
-          alt="Board"
+          alt="v1 Board"
           width="100%"
         />
       </a>
@@ -317,9 +317,37 @@ npm run dev
   </tr>
 </table>
 
+<h3>List</h3>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v1_list.png">
+        <img
+          src="Images/v1_list.png"
+          alt="v1 List"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<h3>Backup</h3>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Job-Tracker-AI/blob/main/Images/v1_backup.png">
+        <img
+          src="Images/v1_backup.png"
+          alt="v1 Backup"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
