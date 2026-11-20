@@ -70,7 +70,7 @@ This project demonstrates iterative software architecture and Git feature-branch
 <h3>Terminal</h3>
 
 <details>
-  <summary><strong>View Prompt</strong></summary>
+  <summary><strong>View Terminal Prompt</strong></summary>
 
 ```text
 mkdir job-tracker-ai
