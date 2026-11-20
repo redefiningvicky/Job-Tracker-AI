@@ -4,7 +4,7 @@
   <h1>💼 Job Tracker AI</h1>
 
   <p>
-    
+    A Next.js job application tracker built across three Git branches to explore different approaches to data export and cloud sharing.
   </p>
 
 </div>
@@ -15,8 +15,8 @@
 
 <ul>
   <li><a href="#objective">Objective</a></li>
-  <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
+  <li><a href="#prompt purpose">Prompt Purpose</a></li>
   <li><a href="#prompts">Prompts</a></li>
   <li><a href="#images">Images</a></li>
 </ul>
@@ -26,12 +26,8 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-  This project 
+This project demonstrates iterative software architecture and Git feature-branch workflows using Next.js 14, TypeScript, and Tailwind CSS. It begins with basic CSV and JSON backups on main, then expands into an advanced local export studio with live previews and PDF reports on feature-data-export-v2. Finally, feature-data-export-v3 introduces a collaborative cloud sync and sharing hub. The entire multi-branch application was conceptualized and built using Gemini and Claude Code.
 </p>
-
-<hr>
-
-<h2 id="inspiration">🎬 Inspiration</h2>
 
 <hr>
 
@@ -56,6 +52,16 @@
 <p><strong>Format:</strong> Browser App</p>
 
 <p><strong>Operating System:</strong> Windows</p>
+
+<hr>
+
+<h2 id="prompt purpose">💡 Prompt Purpose</h2>
+
+<ul>
+  <li>Version 1: Simple CSV Export</li>
+  <li>Version 2: Advanced Export with Options</li>
+  <li>Version 3: Cloud Integration</li>
+</ul>
 
 <hr>
 
