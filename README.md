@@ -233,7 +233,7 @@ Think big picture — surprise me with thoughtful touches that make a job search
 <h3>Browser</h3>
 
 <details>
-  <summary><strong>View Browser</strong></summary>
+  <summary><strong>View Browser Prompt</strong></summary>
 
 ```text
 http://localhost:3000/
