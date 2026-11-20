@@ -230,6 +230,17 @@ Think big picture — surprise me with thoughtful touches that make a job search
 
 </details>
 
+<h3>Browser</h3>
+
+<details>
+  <summary><strong>View Browser Prompt</strong></summary>
+
+```text
+http://localhost:3000/
+```
+
+</details>
+
 <h3>Switch Between Branches</h3>
 
 <details>
