@@ -258,9 +258,7 @@ npm run dev
 
 <h2 id="images">🖼️ Images</h2>
 
-<h3>Alan Turing Presentation</h3>
-
-<h4>Slide 1</h4>
+<h3>main (Version 1)
 
 <table>
   <tr>
